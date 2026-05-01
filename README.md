@@ -9,6 +9,7 @@ The page includes:
 - A polished hero section with app positioning and calls to action
 - A visual mobile app dashboard mockup
 - Feature highlights for workout tracking, goals, and progress insights
+- A workout calendar section for weekly planning
 - A compact benefits section
 - A waitlist call to action
 
