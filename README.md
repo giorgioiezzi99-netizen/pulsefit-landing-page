@@ -10,6 +10,7 @@ The page includes:
 - A visual mobile app dashboard mockup
 - Feature highlights for workout tracking, goals, and progress insights
 - A workout calendar section for weekly planning
+- A Free 7-Day Fitness Plan section with benefits and a CTA
 - A compact benefits section
 - A waitlist call to action
 
